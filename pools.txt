@@ -34,5 +34,5 @@
  *
  */
 
-"currency" : "sumokoin",
+"currency" : "monero7",
 
